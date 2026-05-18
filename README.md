@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/golden-mirage/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Golden Mirage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/golden-mirage/) |
+| **Get License** | [Get License For Golden Mirage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/golden-mirage/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyaan 'ch tere nasha ae, I'm falling deep tonight
+> Roop tera chamke sohniye, glowing in the neon light
+> Seene vich dhadkan rukdi, baby you're a golden mirage
+> Hosh mera kho gaya ae, losing all my camouflage
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
