@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/golden-mirage/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Golden Mirage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/golden-mirage/) |
+| **Get License** | [Secure Licensing Rights for Golden Mirage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/golden-mirage/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ae6fcf7dfe6ba88c7683179f043cae7ec3978abd545965669660dc396de349d4` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
